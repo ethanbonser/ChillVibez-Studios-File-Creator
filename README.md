@@ -2,7 +2,6 @@
 
 Create multiple folders and nested subfolders instantly — all from a beautiful, intuitive GUI.
 
-![App Icon](https://raw.githubusercontent.com/ethanbonser/ChillVibezFolderCreator/main/chillvibez_folder_creator.ico)
 
 ## 🚀 Features
 
