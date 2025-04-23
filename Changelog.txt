@@ -1,0 +1,14 @@
+ChillVibez Folder Creator - Changelog
+=====================================
+
+Version 1.0.0 – April 2025
+--------------------------
+✔ Initial public release
+✔ Create folders and subfolders from comma-separated input
+✔ Live folder tree preview
+✔ Clean and friendly GUI with preview panel
+✔ Included desktop and Start Menu shortcuts in installer
+✔ Custom EXE icon and installer branding
+✔ Installer includes license, readme, and changelog
+
+More features and updates coming soon!

@@ -1,0 +1,19 @@
+ChillVibez Folder Creator - License Agreement
+=============================================
+
+Copyright (c) 2025
+ChillVibez Studios, Developed by Ethan Tyler Bonser
+
+This software is licensed, not sold. You are free to:
+- Use the software for personal or commercial purposes
+- Distribute the installer, unmodified, with attribution
+
+You may NOT:
+- Modify, reverse-engineer, or decompile this application
+- Sell or sublicense the software without written permission
+- Misrepresent ownership or remove branding
+
+By installing and using this software, you agree to the above terms.
+
+For licensing inquiries, contact:
+ethanbonser@chillvibezstudios.com
