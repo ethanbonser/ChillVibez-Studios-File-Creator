@@ -25,7 +25,7 @@ Download the latest release here:
 ## 📜 License
 
 © 2025 ChillVibez Studios – Developed by Ethan Tyler Bonser  
-Licensed under ChillVibez Custom License (see `LICENSE.txt`)
+Licensed under ChillVibez Custom License (see `LICENSE`)
 
 ## 🔗 Connect
 
